@@ -1,3 +1,2 @@
-tk 8.6.12
-numpy 1.23.5
-matplotlib 3.7.0
+numpy==1.23.5
+matplotlib==3.7.0
