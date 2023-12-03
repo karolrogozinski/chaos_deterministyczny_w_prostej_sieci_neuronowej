@@ -29,8 +29,8 @@ Stan sieci aktualizowany jest w czasie dyskretnym według formuły:
 Funkcją aktywacji σ jest sigmoida ze współczynnikiem nachylenia μ.
 
 Dane wejściowe zostały zainicjowane wartościami:
-    - *x(0)* = 0.35,
-    - *y(0)* = 0.55.
+- *x(0)* = 0.35,
+- *y(0)* = 0.55.
 
 Parametry do eksperymentów (liczba iteracji, gęstość próbkowania μ) zostały wyznaczone metodą inżynierską.
 
