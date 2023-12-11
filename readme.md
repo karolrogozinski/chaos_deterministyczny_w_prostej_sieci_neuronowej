@@ -48,4 +48,4 @@ $python3 projekt.py
 
 ### Wnioski
 
-Możemy zaobserwować, że chaos deterministyczny jest bardzo popularnym zjawiskiem w zaimplementowanej przez nas sieci neuronowej. W zależności od ustawionych wag, układ posiada różne wartości parametru μ, dla których wpada w oscylacje (pionowe, poszarpane linie). Zwykle jest stabilny jedynie dla bardzo małych wartości μ (ciągłe poziome linie).
+Możemy zaobserwować, że chaos deterministyczny jest bardzo popularnym zjawiskiem w zaimplementowanej przez nas sieci neuronowej. W zależności od ustawionych wag, układ posiada różne wartości parametru μ, dla których wpada w oscylacje (rozgałęzienia do większej liczby rozwiązań) oraz chaos deterministyczny (pionowe, poszarpane linie). Zwykle jest stabilny jedynie dla bardzo małych wartości μ (ciągłe poziome linie).
